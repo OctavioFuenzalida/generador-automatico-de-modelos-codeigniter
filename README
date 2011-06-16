@@ -1,0 +1,5 @@
+1) Configuraci&oacute;n de la base de dato en  /application/config/database.php
+
+2)  abrir http://<proyecto>/Generarmodelos
+
+y estara el modelo generado automaticamente.
